@@ -1,0 +1,4 @@
+{
+    "token":"secret",
+    "link":"https://discord.com/api/oauth2/authorize?client_id=1078627264746508319&permissions=8&scope=bot"
+}
